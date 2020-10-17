@@ -3,5 +3,5 @@
 An active learning program based on random forest algorithm written in `Python`
 
 ## Authors
-- DABAS Jayant
-- GUPTA Vikhyat
+- Dabas Jayant
+- Gupta Vikhyat
