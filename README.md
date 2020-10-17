@@ -1,2 +1,7 @@
-# face-to-country-recognition
-An active learning program based on random forest algorithm
+# Face recognition to detect country
+
+An active learning program based on random forest algorithm written in `Python`
+
+## Authors
+- Dabas Jayant
+- Gupta Vikhyat
